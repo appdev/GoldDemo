@@ -15,8 +15,7 @@
 ```
 
 
-###
-	我的blog: 
+###我的blog: 
 	http://www.apkdv.com/
 	
 	有兴趣的可以加入QQ群：

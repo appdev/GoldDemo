@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_all_time"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/shape_white_no_stroke"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:text="永久动画"
+        android:textColor="#ff3d3d3d"
+        android:textSize="15sp" />
+
+
+    <Button
+        android:id="@+id/btn_amin"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/shape_white_no_stroke"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:text="三秒动画"
+        android:textColor="#ff3d3d3d"
+        android:textSize="15sp" />
+
+</LinearLayout>

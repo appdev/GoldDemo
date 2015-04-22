@@ -8,6 +8,7 @@
 #使用方法
  使用PopupWindow来弹出 主题布局和文字都可以很方便的修改
  直接调用 
+ 
  showPopWindows(View, 现实的金币数);
  ```Java
   showPopWindows(btnAll, "20");
@@ -15,7 +16,7 @@
 
 
 ###
-	我的blog: (http://www.apkdv.com/)
+	我的blog: [Blog](http://www.apkdv.com/)
 	
 	有兴趣的可以加入QQ群：
 	 [mou](http://mouapp.com/) http://shang.qq.com/wpa/qunwpa?idkey=f9fce7deab4e6df8a1d134889a0a49163ae74eb6ad3cceda12b5deac307d8570

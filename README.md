@@ -20,6 +20,8 @@
 	http://www.apkdv.com/
 	
 	有兴趣的可以加入QQ群：
+	[YouTube](https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be).
+	
 	[260584677](http://shang.qq.com/wpa/qunwpa?idkey=f9fce7deab4e6df8a1d134889a0a49163ae74eb6ad3cceda12b5deac307d8570)
 	
 #License
